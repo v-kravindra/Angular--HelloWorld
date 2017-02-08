@@ -16,7 +16,7 @@
     "dependencies": {
         "@angular/common": "2.4.6",
         "@angular/compiler": "2.4.6",
-        "@angular/compiler-cli": "2.4.3",
+        "@angular/compiler-cli": "2.4.6",
         "@angular/core": "2.4.6",
         "@angular/forms": "2.4.6",
         "@angular/http": "2.4.6",
@@ -37,7 +37,7 @@
         "lite-server": "^2.2.2",
         "typescript": "2.1.5",
         "raw-loader": "^0.5.1",
-        "webpack": "^2.2.0",
-        "@ngtools/webpack": "1.2.4"
+        "webpack": "^2.2.1",
+        "@ngtools/webpack": "1.2.8"
     }
 }
