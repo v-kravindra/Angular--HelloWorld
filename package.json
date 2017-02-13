@@ -1,10 +1,10 @@
 {
-    "name": "angular2-helloworld",
+    "name": "angular-helloworld",
     "author": "Dan Wahlin",
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/danwahlin/angular2-helloworld"
+        "url": "https://github.com/danwahlin/angular-helloworld"
     },
     "scripts": {
         "tsc": "tsc",
