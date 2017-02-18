@@ -38,8 +38,8 @@ module.exports = {
             {test: /\.ts$/, loader: '@ngtools/webpack'}
         ]
     },
-    devServer: {
-        historyApiFallback: true
-    }
+    // devServer: {
+    //     historyApiFallback: true
+    // }
 };
 
