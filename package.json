@@ -32,8 +32,8 @@
     "devDependencies": {
         "@types/core-js": "0.9.35",
         "@types/node": "7.0.5",
-        "concurrently": "^3.4.0",
-        "lite-server": "^2.3.0",
+        "concurrently": "3.4.0",
+        "lite-server": "2.3.0",
         "typescript": "2.2.1",
         "raw-loader": "0.5.1",
         "webpack": "2.2.1",
