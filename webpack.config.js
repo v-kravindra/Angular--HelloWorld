@@ -1,6 +1,6 @@
-const ngToolsWebpack = require('@ngtools/webpack');
-
-var webpack = require('webpack');
+const ngToolsWebpack = require('@ngtools/webpack'),
+      webpack = require('webpack'),
+      path = require('path');
 
 module.exports = {
     resolve: {
@@ -8,7 +8,7 @@ module.exports = {
     },
     entry: './src/app/main.aot.ts',
     output: {
-        path: './src/dist',
+        path: path.resolve(__dirname, 'src/dist'),
         publicPath: 'src/dist/',
         filename: 'app.main.js'
     },
