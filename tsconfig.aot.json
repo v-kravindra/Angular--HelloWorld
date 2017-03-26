@@ -18,6 +18,6 @@
   ],
 
   "angularCompilerOptions": {
-   "genDir": "./src/app/aot"
+   "genDir": "./src/aot"
  }
 }
