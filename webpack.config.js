@@ -14,7 +14,7 @@ module.exports = {
     },
     plugins: [
         new ngToolsWebpack.AotPlugin({
-            tsConfigPath: './tsconfig.json',
+            tsConfigPath: './tsconfig.aot.json',
             entryModule: __dirname + '/src/app/app.module#AppModule'
         }),
         new webpack.LoaderOptionsPlugin({
