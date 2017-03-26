@@ -31,3 +31,5 @@ to build Angular components, services, pipes, directives and more.
 1. Run `npm run build`
 
 1. Follow the instructions at the bottom of `src/index.html` to add the necessary AOT scripts.
+
+1. Run `npm start` to start the server and launch the app.
