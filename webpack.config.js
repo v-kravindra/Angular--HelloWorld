@@ -3,8 +3,7 @@ const ngToolsWebpack = require('@ngtools/webpack'),
       path = require('path');
 
 var aotPlugin = new ngToolsWebpack.AotPlugin({
-    tsConfigPath: "./tsconfig.aot.json",
-    entryModule: path.resolve(__dirname, "./src/app/app.module#AppModule"),
+    tsConfigPath: "./tsconfig.aot.json"
 });
 
 module.exports = {
