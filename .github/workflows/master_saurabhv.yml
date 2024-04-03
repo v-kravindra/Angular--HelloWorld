@@ -59,4 +59,4 @@ jobs:
           app-name: 'saurabhv'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_961053F27217483FBF85C6FEEC11DBB9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8CDE966A8A574343A4386C7C3766F6D6 }}
